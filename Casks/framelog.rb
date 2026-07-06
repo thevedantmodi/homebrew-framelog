@@ -1,6 +1,6 @@
 cask "framelog" do
-  version "0.9.1"
-  sha256 "25d998139c0fe7dde56425f5d6265e9bd6455edb6642c7fab92a88b0efbb89cf"
+  version "0.10.0"
+  sha256 "5474534eb732298aaa5ab9b0d2799d15ef8bdb0f59b4246de5178604bc4d6b25"
 
   url "https://github.com/thevedantmodi/framelog/releases/download/v#{version}/Framelog-#{version}.dmg"
   name "Framelog"
